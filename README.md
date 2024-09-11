@@ -1,2 +1,0 @@
-# PythonEx
-TESTEREADMETEST
